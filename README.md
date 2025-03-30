@@ -1,5 +1,6 @@
 # API-Testing-Framework
 <p>We really appreciate the contribution of everyone who uses this framework. If you want to help us make it even better, you can: Make a donation to support the development <a href="https://www.donationalerts.com/r/nikoral666">DONATE</a></p>
+<img src="https://img.shields.io/badge/CoffeeScript-2F2625?logo=coffeescript&logoColor=fff"> 
 <p>The API Testing Framework is a platform for automating API testing.</p>
 <p>It allows you to:</p>
 <p>- Generate tests based on API descriptions.<br />- Create mock servers for test isolation.<br />- Perform load testing.<br />- Generate API documentation.<br />- Check API security.</p>
